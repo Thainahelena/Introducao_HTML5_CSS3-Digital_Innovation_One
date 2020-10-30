@@ -11,15 +11,15 @@
 </h2>
 
 ## 📚 Sobre
-------------
+
 Repositório dedicado a resoluções de todos os exercícios propostos no curso de Introdução a Criação De Websites Com HTML5 e CSS3, matéria introdutória do **BootCamp Everis FullStack Developer da Digital Innovation One**, ministrada pelo Professor e Front-End Engineer Lucas Vilaboim, em outubro de 2020.
 
-A partir das aula básica, solucionei os desafios e acrescentei novas funções.
+A partir das aulas, solucionei os desafios e acrescentei novas funções.
 
 Para ter acesso a este conteúdo, acesse: https://web.digitalinnovation.one/                                   
 
 ## 🚀 Tecnologias Utilizadas
-------------
+
 O projeto foi desenvolvido a partir das tecnologias:
 
 - *HTML5*
@@ -27,7 +27,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 📚 About
-------------
+
 *Dedicated repository to solving all the exercises proposed in Introduction to Creating Websites With HTML5 and CSS3, introductory subject of **Digital Innovation One's BootCamp, Everis FullStack Developer**, taught by Professor and Front-End Engineer Lucas Vilaboim, in October 2020.*
 
 *From the basic classes, I solved the challenges and added new functions.*
@@ -36,7 +36,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 🚀 Technologies Used:
-------------
+
 *The project was developed based on technologys:*
 
 - *HTML5*
