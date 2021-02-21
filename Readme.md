@@ -9,9 +9,9 @@
 </p>
 
 
-<h2 align="center">
+<p align="center">
     <img src="https://i.imgur.com/gqYL4kw.jpg">
-</h2>
+</p>
 
 <h2 align="center">
     <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1" width="30rem"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1" width="30rem"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1" width="30rem"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1" width="30rem"></a>
