@@ -41,9 +41,9 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 *To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
-## 💻 Projeto
+## 💻 Project
 
-The **Pixel Art Blog** project is a website in a simple blog format with vertical scrolling. New functions and a new color palette have been added.
+*The **Pixel Art Blog** project is a website in a simple blog format with vertical scrolling. New functions and a new color palette have been added.*
 
 ## 🚀 Technologies:
 
